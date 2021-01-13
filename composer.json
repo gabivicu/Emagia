@@ -1,0 +1,13 @@
+{
+    "name": "vendor/emag-hero-game",
+    "description": "Emag hero game test",
+    "authors": [
+        {
+            "name": "gabivicu",
+            "email": "gabi.vicu@gmail.comS"
+        }
+    ],
+    "require": {
+        "composer/composer": "^1.10"
+    }
+}
